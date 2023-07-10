@@ -49,6 +49,15 @@ function App() {
       </ul>
      </div>
      </div>
+
+     <div>
+      <div></div>
+      <div>
+        <h3>$300 checking bonus on us</h3>
+        <p>Open an eligible checking account with qualifying electronic deposits</p>
+        <a href=''>Get started</a>
+      </div>
+     </div>
     </>
   )
 }
