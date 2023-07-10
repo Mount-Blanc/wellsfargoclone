@@ -1,8 +1,46 @@
 body {
   margin:0;
+  color:white;
 }
 
 header {
   background-color: #d71e28;
   border-bottom: 4px solid #ffcd41;
+  height:75px;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+}
+.list li a {
+  text-decoration: none;
+  color: white;
+}
+
+.category-list li a {
+text-decoration: none;
+}
+.category-container {
+  background-color: #f9f7f6;
+  height:60px;
+}
+.category-list {
+  display: flex ;
+  margin:0;
+  list-style: none;
+}
+.options-container {
+  height:60px;
+}
+.options-list {
+  display: flex ;
+  margin:0;
+  list-style: none;
+
 }
