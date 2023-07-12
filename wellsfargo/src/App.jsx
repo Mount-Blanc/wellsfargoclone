@@ -74,6 +74,32 @@ function App() {
         <a href=''>Get started</a>
       </div>
      </div>
+
+     <section className='loan-section'>
+      <div className='loan-card'>
+        <h3>Earn Points on Rent</h3>
+        <p>Redeem for travel, rent credit and more</p>
+        <a href=''>Learn more</a>
+      </div>
+
+      <div className='loan-card' >
+        <h3>Earn Points on Rent</h3>
+        <p>Redeem for travel, rent credit and more</p>
+        <a href=''>Learn more</a>
+      </div>
+
+      <div className='loan-card'>
+        <h3>Earn Points on Rent</h3>
+        <p>Redeem for travel, rent credit and more</p>
+        <a href=''>Learn more</a>
+      </div>
+
+      <div className='loan-card'>
+        <h3>Earn Points on Rent</h3>
+        <p>Redeem for travel, rent credit and more</p>
+        <a href=''>Learn more</a>
+      </div>
+     </section>
     </>
   )
 }

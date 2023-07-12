@@ -54,3 +54,17 @@ text-decoration: none;
   width:350px;
   padding:10px;
 }
+.loan-card {
+  background-color: rgb(242, 242, 242);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width:fit-content;
+  padding:20px;
+  border-radius: 10px;
+  margin:40px 10px;
+}
+.loan-section {
+  display: flex ;
+}
