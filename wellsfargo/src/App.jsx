@@ -50,8 +50,8 @@ function App() {
      </div>
      </div>
 
-     <div>
-      <div>
+     <div className='hero'>
+      <div className='card'>
         <div>
           <h2>Good morning</h2>
           <p>Sign on to manage your accounts</p>
