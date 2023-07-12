@@ -100,6 +100,35 @@ function App() {
         <a href=''>Learn more</a>
       </div>
      </section>
+
+     <section>
+      <div className='home-card-container'>
+<h2>Financial guidance and support</h2>
+        <div>
+          <div className='home-card'>
+            <h2>Plan.Prepare.Enjoy home.</h2>
+          <p>Discover tools and tips to help make buying or refinancing a littler easier</p></div>
+       <a href=''>Get tips for homebuying</a>
+        </div>
+
+        <div>
+
+          <div className='home-card'>
+            <h2>Plan.Prepare.Enjoy home.</h2>
+          <p>Discover tools and tips to help make buying or refinancing a littler easier</p></div>
+       <a href=''>Get tips for homebuying</a>
+        </div>
+
+        <div className='home-card'>
+          <div>
+            <h2>Plan.Prepare.Enjoy home.</h2>
+          <p>Discover tools and tips to help make buying or refinancing a littler easier</p></div>
+       <a href=''>Get tips for homebuying</a>
+        </div>
+
+
+      </div>
+     </section>
     </>
   )
 }
