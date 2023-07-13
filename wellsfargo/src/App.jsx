@@ -101,19 +101,20 @@ function App() {
       </div>
      </section>
 
-     <section>
+     <section className='financial-section'>
+      <h2>Financial guidance and support</h2>
+
       <div className='home-card-container'>
-<h2>Financial guidance and support</h2>
-        <div>
-          <div className='home-card'>
+        <div className='home-card'>
+          <div >
             <h2>Plan.Prepare.Enjoy home.</h2>
           <p>Discover tools and tips to help make buying or refinancing a littler easier</p></div>
        <a href=''>Get tips for homebuying</a>
         </div>
 
-        <div>
+        <div className='home-card'>
 
-          <div className='home-card'>
+          <div >
             <h2>Plan.Prepare.Enjoy home.</h2>
           <p>Discover tools and tips to help make buying or refinancing a littler easier</p></div>
        <a href=''>Get tips for homebuying</a>
@@ -122,13 +123,41 @@ function App() {
         <div className='home-card'>
           <div>
             <h2>Plan.Prepare.Enjoy home.</h2>
-          <p>Discover tools and tips to help make buying or refinancing a littler easier</p></div>
+          <p>Discover tools and tips to help make buying or refinancing a littler easier</p>
+          </div>
        <a href=''>Get tips for homebuying</a>
         </div>
 
 
       </div>
      </section>
+
+     <section className='financial-section'>
+      <h2>Serving our customers and communities</h2>
+      <p>It doesn't happen with one transaction, in one day on the job, or in one quarter.
+              It's earned relationship by relationship
+            </p>
+      <div className='home-card-container'>
+        <div className='home-card'>
+          <div >
+            <h2>Who we are</h2>
+          <p>Wells Fargo help sstrengthen communities through diversity, equity, and inclusion,
+            economic empowerment, and sustainability</p></div>
+       <a href=''>About Wells Fargo</a>
+        </div>
+
+        <div className='home-card'>
+
+          <div >
+            <h2>Why we're committed to communities</h2>
+          <p>We don't just serve our communities- we are our communities. We're committed to helping customers and neighborhoods across the country thrive.</p></div>
+       <a href=''>Wells Fargo Stories</a>
+        </div>
+
+      </div>
+     </section>
+
+     <footer></footer>
     </>
   )
 }

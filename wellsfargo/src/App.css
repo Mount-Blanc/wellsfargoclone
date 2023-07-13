@@ -73,4 +73,16 @@ text-decoration: none;
 }
 .home-card {
   border-radius: 10px;
+  margin-inline: 10px;
+  box-shadow: 5px 10px;
+}
+.financial-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+footer {
+  background-color: #f4f0ed;
+  height:500px
 }
