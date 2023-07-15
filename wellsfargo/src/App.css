@@ -6,11 +6,17 @@ header {
   background-color: #d71e28;
   border-bottom: 4px solid #ffcd41;
   height:75px;
-}
-.header-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  width:100%;
+  justify-content: space-between;
+  margin-inline: 40px;
 }
 
 .list {
